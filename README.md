@@ -10,8 +10,8 @@ Android Developer Wannabe.
 HTML, CSS, C, Python <br>
 Kotlin, Dart, Flutter
 
-- 🔭 I’m currently working on Html & Css Projects. 
-- 🌱 I’m currently learning Html & Css.
+- 🔭 I’m currently working on Python exercises and projects. 
+- 🌱 I’m currently learning Python.
 - 📫 How to reach me: francescacarrera.dev@gmail.com 
 - 😄 Pronouns: She/Her.
 
