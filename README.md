@@ -7,7 +7,7 @@ I'm based in Busto Arsizio (Varese).
 Android Developer Wannabe.
 
 **MY STUDY PLAN:** <br>
-Java, Kotlin, Dart, Flutter <br>
+Java, Kotlin, Dart, Flutter. <br>
 
 - 🔭 I’m currently working on Java exercises and projects. 
 - 🌱 I’m currently learning Java.
