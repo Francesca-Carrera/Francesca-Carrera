@@ -7,11 +7,10 @@ I'm based in Busto Arsizio (Varese).
 Android Developer Wannabe.
 
 **MY STUDY PLAN:** <br>
-HTML, CSS, C, Python <br>
-Kotlin, Dart, Flutter
+Java, Kotlin, Dart, Flutter <br>
 
-- 🔭 I’m currently working on Python exercises and projects. 
-- 🌱 I’m currently learning Python.
+- 🔭 I’m currently working on Java exercises and projects. 
+- 🌱 I’m currently learning Java.
 - 📫 How to reach me: francescacarrera.dev@gmail.com 
 - 😄 Pronouns: She/Her.
 
