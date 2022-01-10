@@ -1,10 +1,9 @@
 ### Hi there 👋, my name is Francesca.
-#### I am an italian developer student at Start2impact.
+#### I am an italian native Android vedeloper student.
 <img align="center" src="https://github.com/Francesca-Carrera/Francesca-Carrera/blob/main/github_banner.png" width=600px; />
 
 I'm based in Busto Arsizio (Varese).
 <br>
-Android Developer Wannabe.
 
 **MY STUDY PLAN:** <br>
 Java, Kotlin, Dart, Flutter. <br>
