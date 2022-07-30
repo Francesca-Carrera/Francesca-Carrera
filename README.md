@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Francesca.
-#### I am an italian native Android developer student.
+#### I'm an italian native Android developer student.
 <img align="center" src="https://github.com/Francesca-Carrera/Francesca-Carrera/blob/main/bannerGithub2.png" width=600px; />
 
 I'm based in Busto Arsizio (Varese).
