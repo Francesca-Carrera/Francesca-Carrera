@@ -6,7 +6,7 @@ I'm based in Busto Arsizio (Varese).
 <br>
 
 **MY STUDY PLAN:** <br>
-Java, Android, Kotlin. <br>
+Java, Android, Kotlin, Dart, Flutter. <br>
 
 - 🔭 I’m currently working on Java exercises and projects. 
 - 🌱 I’m currently learning Java.
