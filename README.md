@@ -1,15 +1,12 @@
 ### Hi there 👋, my name is Francesca.
-#### I'm an italian native Android developer student.
-<img align="center" src="https://github.com/Francesca-Carrera/Francesca-Carrera/blob/main/bannerGithub2.png" width=600px; />
+#### I'm an italian Flutter developer student.
+<img align="center" src="https://github.com/Francesca-Carrera/Francesca-Carrera/blob/main/GITHUB_banner_Flutter.png" width=600px; />
 
 I'm based in Busto Arsizio (Varese).
 <br>
 
-**MY STUDY PLAN:** <br>
-Java, Android, Kotlin, Dart, Flutter. <br>
-
-- 🔭 I’m currently working on Java exercises and projects. 
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning Dart.
+- 🔭 I want to specialize in Flutter framework. 
 - 📫 How to reach me: francescacarrera.dev@gmail.com 
 - 😄 Pronouns: She/Her.
 
