@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Francesca.
 #### I'm an italian Flutter developer student.
-<img align="center" src="https://github.com/Francesca-Carrera/Francesca-Carrera/blob/main/GITHUB_banner_Flutter.png" width=600px; />
+<img align="center" src="https://github.com/Francesca-Carrera/Francesca-Carrera/blob/main/1669987738032.jpg" width=600px; />
 
 I'm based in Busto Arsizio (Varese).
 <br>
