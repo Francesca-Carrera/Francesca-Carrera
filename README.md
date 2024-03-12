@@ -6,7 +6,7 @@ I'm based in Busto Arsizio (Varese).
 <br>
 
 - 🌱 I’m currently learning SQL Server Express.
-- 🔭 I want to specialize in data analysis. 
+- 🔭 I want to specialize in data engineering.
 - 📫 How to reach me: francescacarrera.dev@gmail.com 
 - 😄 Pronouns: She/Her.
 
