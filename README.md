@@ -1,5 +1,6 @@
 ### Hi there 👋, my name is Francesca.
-#### I'm an italian data analysis student.
+#### I'm an italian data analysis student at [start2impact University](https://www.start2impact.it)
+
 <img align="center" src="https://github.com/Francesca-Carrera/Francesca-Carrera/blob/main/1669987738032.jpg" width=600px; />
 
 I'm based in Busto Arsizio (Varese).
