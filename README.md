@@ -10,8 +10,4 @@ I'm based in Busto Arsizio (Varese).
 - 📫 How to reach me: francescacarrera.dev@gmail.com 
 - 😄 Pronouns: She/Her.
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/francesca-c13051988/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/carrera_francesca/) 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Francesca-Carrera&layout=compact)](https://github.com/Francesca-Carrera/github-readme-stats)
-
-![Profile views](https://gpvc.arturio.dev/Francesca-Carrera)  
