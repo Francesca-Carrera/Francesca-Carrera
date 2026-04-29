@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Francesca.
-#### I'm an italian student at [start2impact University](https://www.start2impact.it)
+#### I'm an italian student at [start2impact](https://www.start2impact.it)
 
 <img align="center" src="https://github.com/Francesca-Carrera/Francesca-Carrera/blob/main/1669987738032.jpg" width=600px; />
 
