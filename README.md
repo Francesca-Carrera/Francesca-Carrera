@@ -6,8 +6,8 @@
 I'm based in Busto Arsizio (Varese).
 <br>
 
-- 🌱 I’m currently learning Python.
-- 🔭 I want to specialize in data analysis.
+- 🌱 I’m currently learning Numpy.
+- 🔭 I want to specialize in Data Science, Analytics & AI Agents.
 - 📫 How to reach me: francescacarrera@protonmail.com .
 - 😄 Pronouns: She/Her.
 
