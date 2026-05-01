@@ -9,7 +9,7 @@
 Attualmente in formazione in **Data Science, Analytics e Agenti AI** su Start2Impact, una piattaforma innovativa che offre formazione pratica e connessioni con il mondo del lavoro nell’ambito dell’innovazione digitale.
 
 - **Progetti completati:**
-  - Excel: 
+  - Excel: [Excel_FoodWaste](https://github.com/Francesca-Carrera/Excel_FoodWaste)
   - SQL: [SQL_GenDip](https://github.com/Francesca-Carrera/SQL_GenDip)
   - Python *(vedi repository)*.
 - **Moduli in programma:** manipolazione dati (NumPy, Pandas, Seaborn, Plotly), Dashboard (Tableau, Data Studio, Google Analytics 4), Machine Learning base e avanzato, sviluppo di Agenti AI per dati.
