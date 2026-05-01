@@ -17,8 +17,6 @@ I'm based in Busto Arsizio (Varese).
 
 📍 Busto Arsizio (VA), Italia
 
----
-
 ## 👩‍💻 In formazione
 
 Attualmente in formazione in **Data Science, Analytics e Agenti AI** su Start2Impact, una piattaforma innovativa che offre formazione pratica e connessioni con il mondo del lavoro nell’ambito dell’innovazione digitale.
